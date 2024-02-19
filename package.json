@@ -1,6 +1,6 @@
 {
-  "name": "@mrblenny/react-flow-chart",
-  "version": "0.0.14",
+  "name": "@barmola/react-flow-chart",
+  "version": "1.0.0",
   "description": "A flexible, stateless flow chart library for react.",
   "main": "src/index.js",
   "repository": "git@github.com:MrBlenny/react-flow-chart.git",
